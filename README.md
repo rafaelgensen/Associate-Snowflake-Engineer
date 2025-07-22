@@ -1,4 +1,5 @@
-# Associate Snowflake Data Engineer: From Architecture to Data Modeling
+# Associate Snowflake Data Engineer
+## From Architecture to Data Modeling
 
 ![Associate Snowflake Data Engineer: From Architecture to Data Modeling](architecture.png)
 
